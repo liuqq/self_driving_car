@@ -8,3 +8,6 @@
 - Trained and evaluated a deep learning model to drive a car safely and smoothly on the road in the simulator, with no tire leaves the drivable portion of the track surface.
 - Both center lane driving, and recovery driving behavior were recorded to ensure the deep learning model observe behavior in different situations.
 - The 3-layer convolutional neural network model was implemented with Keras on a GPU cluster in Amazon Web Services.
+## Advanced Lane Finding
+- Built an advanced lane-finding algorithm using distortion correction, image rectification, color transforms, and gradient thresholding. 
+- Identified lane curvature and vehicle displacement. Overcame environmental challenges such as shadows and pavement changes.
